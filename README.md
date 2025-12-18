@@ -1,5 +1,6 @@
-# Mint Config 1.0
-#Be warned this is my first repo so expect bugs!
+**# Mint Config 1.0
+#Be warned this is my first repo so expect bugs!**
+**#Report bugs to bugs_thomsgithub@outlook.com**
 Custom Linux Mint + Hyprland setup with portable configs for a clean, consistent workflow.
 
 ## ✨ Includes
