@@ -17,3 +17,13 @@ Custom Linux Mint + Hyprland setup with portable configs for a clean, consistent
 Clone this repo:
 ```bash
 git clone https://github.com/thomonarch/Mint-Config-1.0.git
+2. Copy everything into your config directory
+bash
+cp -r Mint-Config-1.0/* ~/.config/
+If a folder doesn’t exist on your system, you can safely skip it.
+
+3. Apply the configs
+Log out and back in
+or
+
+Restart Hyprland or do whatever you want!
